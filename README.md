@@ -25,4 +25,3 @@ Here are the languages and tools I'm most familiar with. I'm learning C++ in my 
 
 ### Want to get in touch?
 Please feel free to [email me](mailto:nicolecarman90@outlook.com) if you would like to network, collaborate, or discuss an opportunity with me!
-I love meeting new people and networking.
