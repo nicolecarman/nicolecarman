@@ -13,7 +13,7 @@ Welcome to my Github profile! I know it's not very impressive yet
 
 
 ### Languages and Tools:
-Here are the languages and tools I'm most familiar with. I'm learning C++ in my university coursework. My goal is to start dabbling in C#/.NET, Python, and JavaScript. I am always open to learning new languages and tools.
+Here are the languages and tools I'm most familiar with. I'm learning C++ in my university coursework. My goal is to start dabbling in C#/.NET, Python, and JavaScript this year (2022). I am always open to learning new languages and tools.
 
 - C++ (intermediate)
 - HTML
