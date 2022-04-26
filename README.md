@@ -25,3 +25,6 @@ Here are the languages and tools I'm most familiar with. I'm learning C++ in my 
 
 ### Want to get in touch?
 Please feel free to [email me](mailto:nicolecarman90@outlook.com) if you would like to network, collaborate, or discuss an opportunity with me!
+You can also find me on social media.
+
+![https://www.linkedin.com/in/nicole-carman/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  |  ![https://www.twitter.com/nicolecarman/](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  |  ![https://nicolecarman.hashnode.dev/](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
