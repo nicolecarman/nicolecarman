@@ -15,7 +15,7 @@ Welcome to my Github profile! It's new, but I'm eager to become more active in o
 
 
 ### Languages and Tools:
-These are the languages and tools I'm most familiar with. I have over 15 years of experience with website and graphic design tools, and I started learning to code in 2021. I'm learning C++ in my university coursework and JavaScript on my own. My goal is to start dabbling in C#/.NET and Python this year.
+These are the languages and tools I'm most familiar with. I have over 15 years of experience with website and graphic design tools. I took two Visual Basic programming classes in high school, and I started learning C++ in 2021 in my university coursework. I started learning JavaScript on my own in 2022, and my goal is to start becoming familiar with C#/.NET and Python this year.
 
 #### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
