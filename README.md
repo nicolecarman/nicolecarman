@@ -2,7 +2,7 @@
 <img src="cat-g2d576efc8_1280.png" align=right width=200 height=auto alt="A vector image of a black cat">
 
 ### I'm a software engineering student and self-taught web developer.
-Welcome to my Github profile! I know it's not very impressive yet
+Welcome to my Github profile! It's new, but I'm eager to become more active in open source.
 
 - 📚 I’m working on my B.S. in Software Engineering (2024)
 - 🖥️ My self-taught website and graphic design experience dates back to the early 2000s
@@ -15,7 +15,7 @@ Welcome to my Github profile! I know it's not very impressive yet
 
 
 ### Languages and Tools:
-Here are the languages and tools I'm most familiar with. I'm learning C++ in my university coursework and JavaScript on my own. My goal is to start dabbling in C#/.NET and Python this year. I am always open to learning new languages and tools.
+These are the languages and tools I'm most familiar with. I have over 15 years of experience with website and graphic design tools, and I started learning to code in 2021. I'm learning C++ in my university coursework and JavaScript on my own. My goal is to start dabbling in C#/.NET and Python this year.
 
 #### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,7 +25,7 @@ Here are the languages and tools I'm most familiar with. I'm learning C++ in my 
 
 
 
-### I'm always learning
+### I'm always learning!
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)   ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)   ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)   ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 
 
