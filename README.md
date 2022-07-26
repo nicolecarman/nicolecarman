@@ -2,11 +2,11 @@
 <img src="cat-g2d576efc8_1280.png" align=right width=200 height=auto alt="A vector image of a black cat">
 
 ### I'm a software engineering student and self-taught web developer.
-Welcome to my Github profile! It's new, but I'm actively learning more and working on my growth as a developer.
+Welcome to my Github profile! It's new, but I'm focused on learning and am actively working on my growth as a developer.
 
 - :open_book: I'm currently participating in a 16-week JS/Java boot camp
 - 🖥️ Approx. 20 years of self-taught web dev and graphic design experience
-- 🧰 I am always open to learning new languages and tools
+- 🧰 I'm flexible and am always open to learning new languages and tools
 - 💬 I enjoy collaboration and teamwork
 - 👍 Goals for 2022: contribute more to open source, focus on JavaScript and Java
 
