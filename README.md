@@ -34,4 +34,6 @@ These are the languages and tools I'm most familiar with. I started learning HTM
 Please feel free to [email me](mailto:nicolecarman90@outlook.com) if you would like to network, collaborate, or discuss an opportunity with me!<br>
 You can also find me on social media.
 
+My Codecademy chapter, Nerds Who Code, is actively looking for and working on projects. If you'd like to be a part of Nerds Who Code or would like to collaborate with us, please send me an email. Alternatively, you can click on my Linktree link under my profile picture and navigate to the Discord server for Nerds Who Code.
+
 ![https://www.linkedin.com/in/nicole-carman/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   ![https://www.twitter.com/nicolecatlady/](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
