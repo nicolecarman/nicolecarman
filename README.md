@@ -4,7 +4,7 @@
 ### I'm a software engineering student and self-taught web developer.
 Welcome to my Github profile! It's new, but I'm focused on learning and am actively working on my growth as a developer.
 
-- :open_book: I'm currently participating in a 16-week JS/Java boot camp
+- :open_book: I'm currently participating in an accelerated software engineering fellowship
 - 🖥️ Approx. 20 years of self-taught web dev and graphic design experience
 - 🧰 I'm flexible and am always open to learning new languages and tools
 - 💬 I enjoy collaboration and teamwork
