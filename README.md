@@ -13,7 +13,7 @@ Welcome to my Github profile! It's new, but I'm focused on learning and am activ
 <p>&nbsp;</p>
 
 ### Languages and Tools:
-These are the languages and tools I'm most familiar with. I started learning HTML, CSS, and mySQL in the early 2000s, began learning C++ in 2021 in my university coursework, and I'm currently learning JavaScript and Java as a part of a 16-week software engineering boot camp.
+I started learning HTML, CSS, and mySQL in the early 2000s. In 2021, I began learning C++ in my university coursework, and I'm currently learning JavaScript and Java as a part of an accelerated software engineering program.
 
 
 #### Languages
@@ -34,6 +34,6 @@ These are the languages and tools I'm most familiar with. I started learning HTM
 Please feel free to [email me](mailto:nicolecarman90@outlook.com) if you would like to network, collaborate, or discuss an opportunity with me!<br>
 You can also find me on social media.
 
-My Codecademy chapter, Nerds Who Code, is actively looking for and working on projects. If you'd like to be a part of Nerds Who Code or would like to collaborate with us, please send me an email. Alternatively, you can click on my Linktree link under my profile picture and navigate to the Discord server for Nerds Who Code.
+My Codecademy chapter, Nerds Who Code, is an inclusive place for everyone who codes and for anyone who wants to learn how to code. We focus on networking, learning, and collaborating, and we're always welcoming new members who would like to be a part of our chapter. If you'd like to be a part of Nerds Who Code or would like to collaborate with us, please send me an email or [click here](https://community.codecademy.com/nerds-who-code/) to visit Nerds Who Code on Codecademy. Alternatively, you're welcome to jump right in and join our [Discord server](https://discord.gg/haUuvNnhTg).
 
 ![https://www.linkedin.com/in/nicole-carman/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   ![https://www.twitter.com/nicolecatlady/](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
