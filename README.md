@@ -2,7 +2,7 @@
 <img src="cat-g2d576efc8_1280.png" align=right width=200 height=auto alt="A vector image of a black cat">
 
 ### I'm a software engineer and web developer
-Welcome to my Github profile! I am currently working full-time as a software engineer, and I'm a self-taught web developer who has just over 20 years of experience in front end development. I have the same experience in graphic design, social media marketing, and graphic design.
+Welcome to my Github profile! I am currently working full-time as a software engineer, and I'm a self-taught web developer who has just over 20 years of experience in front end development. I have the same experience in graphic design, social media marketing, and graphic design. In 2022, I created Nerds Who Code, an inclusive Discord community for people who code or who want to learn how to code (<a href="https://github.com/Nerds-Who-Code">Nerds Who Code Github</a>).
 
 - :open_book: I enjoy self-learning and learning new ways to solve problems
 - :briefcase: I'm flexible and always open to learning new languages, tools, and frameworks
@@ -11,7 +11,7 @@ Welcome to my Github profile! I am currently working full-time as a software eng
 <p>&nbsp;</p>
 
 ### Languages and Tools:
-I started learning HTML, CSS, and mySQL in the early 2000s. I'm also familiar with C++, Java, and JavaScript.
+I started learning HTML, CSS, and mySQL in the early 2000s. I'm also familiar with C++, Java, Javascript, and Python.
 
 
 #### Languages
