@@ -2,11 +2,11 @@
 <img src="cat-g2d576efc8_1280.png" align=right width=200 height=auto alt="A vector image of a black cat">
 
 ### I'm a software engineer and web developer
-Welcome to my Github profile! I am currently working full-time as a software engineer, and I'm a self-taught web developer who has just over 20 years of experience in front end development. I have the same experience in graphic design, social media marketing, and graphic design. In 2022, I created Nerds Who Code, an inclusive Discord community for people who code or who want to learn how to code (<a href="https://github.com/Nerds-Who-Code">Nerds Who Code Github</a>).
+Welcome to my Github profile! I'm a self-taught developer who has almost 20 years of experience in front-end development. I have the same length of experience in graphic design and digital marketing.
 
 - :open_book: I enjoy self-learning and learning new ways to solve problems
 - :briefcase: I'm flexible and always open to learning new languages, tools, and frameworks
-- :white_check_mark: Goals for 2023: complete 1 codewars challenge/day, learn Python
+- :white_check_mark: Goals for 2025: Graduate with my B.S.
 
 <p>&nbsp;</p>
 
@@ -41,6 +41,4 @@ I started learning HTML, CSS, and mySQL in the early 2000s. I'm also familiar wi
 Please feel free to [email me](mailto:nicolecarman90@outlook.com) if you would like to network, collaborate, or discuss an opportunity with me!<br>
 You can also find me on social media.
 
-My Discord community, Nerds Who Code, is an inclusive place for everyone who codes and for anyone who wants to learn how to code. We focus on networking, learning, and collaborating, and we're always welcoming new members who would like to be a part of our nerdom. If you'd like to be a part of Nerds Who Code or would like to collaborate with us, please [email me](mailto:nicolecarman90@outlook.com). Alternatively, you're welcome to jump right in and join our [Discord server](https://discord.gg/haUuvNnhTg).
-
-![https://www.linkedin.com/in/nicole-carman/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   ![https://www.twitter.com/nicolecatlady/](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![https://www.linkedin.com/in/nicole-carman/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
